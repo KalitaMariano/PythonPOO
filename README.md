@@ -1,4 +1,4 @@
-# 🐍 Python POO
+# 🐍 Programação Orientada a Objetos com Python
 
 Repositório dedicado aos meus estudos de **Programação Orientada a Objetos (POO) com Python**, acompanhando o curso **Python 3 – Mundo 4**, do Curso em Vídeo.
 
